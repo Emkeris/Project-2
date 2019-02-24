@@ -77,7 +77,7 @@ span {
 .sec3_right {
 	display: flex;
   	flex-direction:row-reverse;
-	align-items:flex-end
+	align-items:flex-end;
 	padding: 0 !important;
 }
 
@@ -86,11 +86,7 @@ span {
 }
 
 #triangleElementRight {
-	margin-bottom: auto;
-}
-
-#trialgleRight {
-	margin-bottom : auto;
+	margin-top: auto;
 }
 
 .new_features {
